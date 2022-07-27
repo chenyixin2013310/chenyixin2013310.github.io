@@ -1,6 +1,5 @@
-@[TOC](目录)
-___
-## 计算器
-```python
-print(exal(int(input())))
-```
+# 陈奕昕的博客
+>## 计算器
+>>```python
+>>print(exal(int(input())))
+>>```
